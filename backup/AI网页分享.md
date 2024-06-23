@@ -1,3 +1,5 @@
+**以下都是个人使用分享，并非原创，如有侵权请联系删除**
+
 **科学上网工具 MD5**
 https://invite.md5.click/auth/register?code=pLLa
 
