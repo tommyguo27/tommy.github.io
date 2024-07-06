@@ -7,7 +7,7 @@ https://invite.md5.click/auth/register?code=pLLa
 https://quickqr.art/app
 
 **AI动画制作平台**
-https://storyteller.mootion.com/workspace/generate
+https://storyteller.mootion.com/referral?code=NgUNjvm1uVY
 
 **提供个人化定制AI模板的平台**
 https://dify.ai/zh
