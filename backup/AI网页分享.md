@@ -3,11 +3,11 @@
 **科学上网工具 MD5**
 https://invite.md5.click/auth/register?code=pLLa
 
-**DIY二维码网站**
-https://quickqr.art/app
-
 **AI动画制作平台**
 https://storyteller.mootion.com/referral?code=NgUNjvm1uVY
+
+**DIY二维码网站**
+https://quickqr.art/app
 
 **提供个人化定制AI模板的平台**
 https://dify.ai/zh
