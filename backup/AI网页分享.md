@@ -10,7 +10,7 @@ https://storyteller.mootion.com/referral?code=NgUNjvm1uVY
 https://quickqr.art/app
 
 **Flot AI**
-通过与人工智能进行简单的对话，建立和回忆你的个人知识库
+通过与人工智能进行简单的对话，建立和回忆个人知识库
 https://flot.ai/
 
 **Chatsimple**
