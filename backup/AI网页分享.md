@@ -9,11 +9,11 @@ https://storyteller.mootion.com/referral?code=NgUNjvm1uVY
 **DIY二维码网站**
 https://quickqr.art/app
 
-** Flot AI **
+**Flot AI**
 通过与人工智能进行简单的对话，建立和回忆你的个人知识库
 https://flot.ai/
 
- **Chatsimple**
+**Chatsimple**
 通过与顾客进行有趣的对话，预约会议，确认潜在客户资格等，为你带来更多的销售线索和更高的销售完成率。 在你的网站上创建、训练、部署只需几分钟。
 https://www.chatsimple.ai/
 
