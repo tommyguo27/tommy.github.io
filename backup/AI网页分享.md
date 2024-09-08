@@ -3,6 +3,9 @@
 ** MD5工具**
 https://invite.md5.click/auth/register?code=pLLa
 
+**Cursor 代码生成式AI工具**
+https://www.cursor.com/
+
 **AI动画制作平台**
 https://storyteller.mootion.com/referral?code=NgUNjvm1uVY
 
